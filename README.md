@@ -99,11 +99,11 @@ Motto:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=habib-git-lab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=habib-git-lab&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=habib-git-lab&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
