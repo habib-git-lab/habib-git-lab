@@ -93,8 +93,6 @@ Motto:
 
 </div>
 
----
-
 
 # 🎮 Gaming Zone
 
@@ -126,6 +124,15 @@ Motto:
 ```
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=🌌+The+future+belongs+to+developers+who+build%2C+break%2C+learn%2C+and+rebuild.;Every+line+of+code+is+a+step+toward+innovation%2C+freedom%2C+and+creation.;—+Inspired+by+the+Open+Source+Community" />
+
+</div>
+
+---
+
 
 <div align="center">
 
