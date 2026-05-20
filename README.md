@@ -19,7 +19,7 @@ Education:
   - BCA Student
 
 Current Role:
-  - IT & Web Executive at Farmliv Pvt. Ltd.
+  - IT & Web Executive at Farmliv Industries Pvt. Ltd.
 
 Interests:
   - Cybersecurity
